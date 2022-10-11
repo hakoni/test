@@ -1,0 +1,37 @@
+#EXTM3U#EXTINF:-1 tvg-id="" tvg-name="=== TURKIYE ===" tvg-logo="" group-title="TR ULUSAL",=== TURKIYE ===
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRT1.tr.png" group-title="ULUSAL",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRT2.tr.png" group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTSpor.tr.png" group-title="ULUSAL",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/NTV.tr.png" group-title="ULUSAL",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.tr.png" group-title="ULUSAL",Kanal D
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4768
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/StarTV.tr.png" group-title="ULUSAL",STAR TV
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/ATV.tr.png" group-title="ULUSAL",ATV
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/ShowTV.tr.png" group-title="ULUSAL",SHOW TV
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Fox.tr.png" group-title="ULUSAL",FOX TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/55
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TV8.tr.png" group-title="ULUSAL",Tv8 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/57
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTCocuk.tr.png" group-title="ULUSAL",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TVEM.tr.png" group-title="ULUSAL",TV EM
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTBelgesel.tr.png" group-title="BELGESEL",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TLC.tr.png" group-title="BELGESEL",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/800px-DMAX_BLACK.svg.png" group-title="BELGESEL",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="BELGESEL",YABAN TV
+https://yayin1.canlitv.day/live1/yabantv/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="TEKNOLOJI",NASA TV (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tek_rumeli_tv.png" group-title="ULUSAL",TEK RUMELİ
+https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
