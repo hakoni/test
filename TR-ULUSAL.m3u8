@@ -35,3 +35,7 @@ https://yayin1.canlitv.day/live1/yabantv/playlist.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tek_rumeli_tv.png" group-title="ULUSAL",TEK RUMELİ
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="ULUSAL",KANAL 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/Fox.tr.png" group-title="ULUSAL",FOX TV YEDEK
+https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?ce=3&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&st=8TXAzVdKau9b7yf89JKgZw&e=1665668033
