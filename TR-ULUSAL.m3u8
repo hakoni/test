@@ -5,7 +5,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/TRTSpor.tr.png" group-title="ULUSAL",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/NTV.tr.png" group-title="ULUSAL",NTV
+#EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/NTV.tr.png" group-title="HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/KanalD.tr.png" group-title="ULUSAL",Kanal D
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4768
@@ -63,3 +63,5 @@ http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="MUZIK",POWER TÜRK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER/1",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
